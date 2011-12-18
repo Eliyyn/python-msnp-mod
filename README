@@ -1,4 +1,9 @@
-modify by Eliyyn@hotmail.com.
+modify by Eliyyn@hotmail.com, to make msnp work with current message format.
+
+CHANGES:
+bypass <NOTIFICATION /> node.
+
+contents below is orginal README, I don't know if it is still valid.
 
 ------------------------------------------------------------------
 
